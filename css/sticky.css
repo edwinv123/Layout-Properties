@@ -23,3 +23,22 @@ pre {
     padding: 20px;
     border: 1px solid #000000;
 }
+
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 100px 5px 100px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+img {
+    width: 1000px;
+    max-height: 100vh;
+}
